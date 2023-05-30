@@ -19,7 +19,7 @@
 
 
 import logging
-#from telegram import Update
+from telegram import Update
 #from telegram.ext import CallbackContext
 
 from internationalization import _, __
